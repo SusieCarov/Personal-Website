@@ -1,0 +1,106 @@
+.panel {
+    margin-top: 100px;
+    background-color: #66CCFF;
+    border-radius: 20px !important;
+}
+
+#physics-icon{
+    margin-bottom: 10px;
+}
+
+label {
+    font-size: 0.8rem;   
+}
+.photo {
+    margin-top: 25px;
+    border-radius: 20px;
+	width: 500px;
+	height: auto;
+}   
+
+.side_bar {
+    float: left;
+}
+
+.interests-text {
+    margin-left: 80px;
+	display: none;
+}
+
+body {
+    background-image: url(../img/grey.png);
+}
+
+h2 {
+    text-align: center;
+}
+
+.fi-book {
+    margin-left: 10px;
+    font-size: 70px;
+    text-shadow: 1px 4px 6px #FFF,0 0 0 #000,1px 4px 6px #FFF;
+}
+
+.fi-shopping-bag {
+    font-size: 70px;
+}
+
+.fi-torso {
+    margin-left: 15px;
+    font-size: 70px;
+}
+
+.fi-graph-bar {
+    margin-left: 5px;
+    font-size: 70px;
+}
+
+.fi-address-book {
+    font-size: 70px;
+    margin-left: 10px;
+}
+
+.fi-social-linkedin {
+    font-size: 70px;
+}
+
+.fi-social-github {
+    font-size: 70px;
+}
+
+.fi-heart {
+    font-size: 70px;
+}
+
+.ed-text {
+	margin-left: 120px;
+	margin-top: 30px;
+	display: none;
+}
+
+#intro-text {
+	display: block;
+}
+
+ul {
+	margin-top: -8px;
+	font-size: 0.8rem;
+	margin-left: 30px;
+}
+
+.skills-p {
+	margin-left: 30px;
+	margin-top: -10px;
+	margin-bottom: 0px;
+}
+
+.skills-header {
+	margin-left: 15px;
+	text-decoration: underline
+}
+
+.work-header {
+	margin-left: 10px;
+	font-size: 1rem;
+	text-decoration: underline;
+}
